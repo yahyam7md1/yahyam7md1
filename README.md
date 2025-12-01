@@ -6,9 +6,7 @@ I am a passionate Software engineer, driven by a curiosity for technology. My jo
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my bachelor's degree in Software engineering at Istanbul Aydin university.
-- 📝 I will be sharing my lastest project with the community.
-
+I'm a software engineer who specialize in web development - IoT development
   
 
 ##  Tools 
